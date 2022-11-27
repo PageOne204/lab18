@@ -1,0 +1,20 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(moon.jpg);
+  height: 500px;
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(picture2.jpg);
+  height: 500px;
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(yourname.jpg);
+  height: 500px;
+}
